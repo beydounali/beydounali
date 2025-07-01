@@ -7,6 +7,14 @@
 I am a researcher and graduate student focused on artificial intelligence, machine learning, deep learning, and computer security. My work centers around tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a backend software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices. In the past I developed offensive cyber capabilities such as command and control frameworks, reverse shells and implants targeting the windows operating system to support offensive cyber operations and operators.
 <br />
 
+**📝 Certifications I hold:**
+- Security+
+- Certified Red Team Operator (CRTO)
+- Certified Red Team Professional (CRTP)
+- Certified Red Team Expert (CRTE)
+
+<br />
+
 **❤️ Interested in:**
 
 - Natural Language Processing
