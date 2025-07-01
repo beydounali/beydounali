@@ -19,8 +19,39 @@ I am a researcher and graduate student focused on artificial intelligence, machi
 
 <br />
 
-**💻 Programming languages I use:**
+**💻 Languages I use:**
 
 - Python
 - C
 - JavaScript
+- SQL
+
+<br />
+
+**🗄️ Databases I use:**
+- MongoDB
+- PostgreSQL
+- Redis
+
+<br />
+
+**☁️ DevOps tools & infrastructure I use:**
+- Docker
+- Kubernetes
+- Terraform
+- Github Actions
+- Amazon Web Services (AWS)
+- Cloudflare
+
+
+
+
+
+
+
+
+
+
+
+
+
