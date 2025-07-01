@@ -1,16 +1,26 @@
-## Hi there 👋
+![programming](https://github.com/user-attachments/assets/3d8cd988-ff1d-455d-b8ca-2a8dd28ddeb9)
 
-<!--
-**beydounali/beydounali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ali Beydoun</h1>
 
-Here are some ideas to get you started:
+**ℹ️ About me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher and graduate student focused on artificial intelligence, machine learning, deep learning, and computer security. My work centers on tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a backend software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices. In the past I developed offensive cyber capabilities such as command and control frameworks, reverse shells and implants targeting the windows operating system to support offensive cyber operations and operators.
+<br />
+
+**❤️ Interested in:**
+
+- Natural Language Processing
+- Reinforcement Learning
+- Neural Networks
+- Distributed Systems
+- Parallel Computing
+- Cybersecurity
+- Mathematics
+
+<br />
+
+**💻 Programming languages I use:**
+
+- Python
+- C
+- JavaScript
