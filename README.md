@@ -4,7 +4,7 @@
 
 **ℹ️ About me:**
 
-I am a researcher and graduate student focused on artificial intelligence, machine learning, deep learning, and computer security. My work centers around tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a backend software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices. In the past I developed offensive cyber capabilities such as command and control frameworks, reverse shells and implants targeting the windows operating system to support offensive cyber operations and operators. I enjoy taking ideas & problems and producing real world solutions and products that positively impact our world through the use of computer science and software.
+I am a researcher and graduate student focused on embodied and physical artificial intelligence, machine learning, deep learning. My work centers around tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices.
 <br />
 
 **📝 Certifications I hold:**
@@ -12,17 +12,23 @@ I am a researcher and graduate student focused on artificial intelligence, machi
 - Certified Red Team Operator (CRTO)
 - Certified Red Team Professional (CRTP)
 - Certified Red Team Expert (CRTE)
+- AWS Certified Cloud Practioner
+- AWS Certified AI Practioner
+- AWS Certified Solutions Architect
 
 <br />
 
 **❤️ Interested in:**
 
-- Natural Language Processing
-- Reinforcement Learning
-- Neural Networks
+- Deep Learning
+- Machine Learning
+- Perception & Vision
+- Embodied AI
+- Physical AI
 - Distributed Systems
+- Robotics
+- Manufacturing
 - Parallel Computing
-- Cybersecurity
 - Mathematics
 
 <br />
