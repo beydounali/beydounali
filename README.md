@@ -4,7 +4,7 @@
 
 **ℹ️ About me:**
 
-I am a researcher and CS PhD student focused on embodied and physical artificial intelligence, machine learning and deep learning. My work centers around tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices.
+I am a researcher and CS PhD student focused on embodied and physical artificial intelligence, machine and deep learning. My work centers around tackling computationally challenging problems and driving breakthroughs through rigorous research and development on problems I find interesting. I also have experience as a software engineer, building scalable, fault-tolerant, data-intensive systems using modern system design and DevOps best practices.
 <br />
 
 **📝 Certifications I hold:**
